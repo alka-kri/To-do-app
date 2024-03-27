@@ -1,12 +1,8 @@
 # ToDo App
 
 ## Description
-This is a simple To Do App, built to practice DOM. Have fun while interacting with the elements.
+This is a simple To Do App.
 You can add todo, remove todo and search lists of todos.
-
-## Installation
-Clone the repository and cd into the project directory  
-Open with live server or open index.html file in your browser  
 
 ## Usage
 Add todo to existing hobbies
@@ -20,8 +16,4 @@ You can click 'Refresh' to refresh page
 * CSS - For styling the user interface  
 * JavaScript - For functionality  
 
-## Link
-Access app via https://dinakajoy.github.io/ToDo-app/
-
-## Author
-[Odinaka Joy](http://dinakajoy.com)  
+ 
